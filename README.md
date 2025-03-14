@@ -86,6 +86,8 @@ chercher des articles sur les modèles dérivés de lokta volterra
 
 
     feuille de route, télécharger une base de données
+
+    on est sur une dizaine/vingtaine de sangliers présents et tués par battues sur Port Cros
   </p>
   <h4>
     Liste non exaustive des sites cherchés (qui peuvent ou pas servir) :
