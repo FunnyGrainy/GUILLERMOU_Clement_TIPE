@@ -19,12 +19,21 @@
 Avancée du projet :
     Après quelques séances de recherches, et grâce à la recommandation de Mme Courrèges, je compte pour l'instant centrer mon TIPE sur le modèle Lotka Volterra classique.
     Ce modèle permet de s'instaurer dans le thème de cette année, possède une formule mathématique d'équa diff et permet de facilement le modéliser via code.
+    <br>
+Le modèle prend en compte le fait que la population est composée d'une même espèce x 10000, ça prend pas en compte l'age de la population, en reprennant Wikipédia :
+    "The Lotka–Volterra predator-prey model makes a number of assumptions about the environment and biology of the predator and prey populations:
+    <ul>The prey population finds ample food at all times.
+    The food supply of the predator population depends entirely on the size of the prey population.
+    The rate of change of population is proportional to its size.
+    During the process, the environment does not change in favour of one species, and genetic adaptation is inconsequential.
+    Predators have limitless appetite.
+    Both populations can be described by a single variable. This amounts to assuming that the populations do not have a spatial or age distribution that contributes to the dynamics.</ul>"
+Donc qu'est ce qu'il se passerait si y a pas de nourriture, si on touche à une de ces assumptions ? si c'était une pop naturelle ?
 
-  Seule base donnée potentiellement intéressante : <ul> https://www.researchgate.net/publication/343583211_Colonisation_des_iles_d%27Hyeres_Var_sud_de_la_France_par_le_sanglier_Sus_scrofa_Colonization_of_the_islands_of_Hyeres_Var_south_of_France_by_the_wild_boar_Sus_scrofa#pf7 <\ul>
+  Seule base donnée potentiellement intéressante actuellement : <ul> https://www.researchgate.net/publication/343583211_Colonisation_des_iles_d%27Hyeres_Var_sud_de_la_France_par_le_sanglier_Sus_scrofa_Colonization_of_the_islands_of_Hyeres_Var_south_of_France_by_the_wild_boar_Sus_scrofa#pf7
 
 
-
-    -------------------------------------------------------------------
+-------------------------------------------------------------------
     
 Notes fourre tout :
     Pistes : Lotka Voltera avec 3 ou 4 espèces, dynamique des populations (voir la cyclique ?), la chaîne YT de Primer
@@ -38,20 +47,7 @@ Notes fourre tout :
     - conclusion : bullet point de ce qu'on a réussi et pas réussi à faire dans nos expériences
     - mettre les ref biblio, les codes (SAVOIR EXPLIQUER CE QU ILS FONT) 
 
-    lotka voltera : faire le cas de base avec 1 proie 1 prédateur, faire le code, les cycles etc...
-
-    le modèle prend en compte le fait que la population est composée d'une même espèce x 10000, ça prend pas en compte l'age de la population :
-
-    The Lotka–Volterra predator-prey model makes a number of assumptions about the environment and biology of the predator and prey populations:
-
-    The prey population finds ample food at all times.
-    The food supply of the predator population depends entirely on the size of the prey population.
-    The rate of change of population is proportional to its size.
-    During the process, the environment does not change in favour of one species, and genetic adaptation is inconsequential.
-    Predators have limitless appetite.
-    Both populations can be described by a single variable. This amounts to assuming that the populations do not have a spatial or age distribution that contributes to the dynamics.
-
-    donc qu'est ce qu'il se passerait si y a pas de nourriture, si on touche à une de ces assumptions ? si c'était une pop naturelle ?
+    
 
     trouver des données l'institut des forets, données de chasses
 
