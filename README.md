@@ -20,7 +20,7 @@ Avancée du projet :
     Après quelques séances de recherches, et grâce à la recommandation de Mme Courrèges, je compte pour l'instant centrer mon TIPE sur le modèle Lotka Volterra classique.
     Ce modèle permet de s'instaurer dans le thème de cette année, possède une formule mathématique d'équa diff et permet de facilement le modéliser via code.
 
-    Seule base donnée potentiellement intéressante : https://www.researchgate.net/publication/343583211_Colonisation_des_iles_d%27Hyeres_Var_sud_de_la_France_par_le_sanglier_Sus_scrofa_Colonization_of_the_islands_of_Hyeres_Var_south_of_France_by_the_wild_boar_Sus_scrofa#pf7
+  Seule base donnée potentiellement intéressante : <ul> https://www.researchgate.net/publication/343583211_Colonisation_des_iles_d%27Hyeres_Var_sud_de_la_France_par_le_sanglier_Sus_scrofa_Colonization_of_the_islands_of_Hyeres_Var_south_of_France_by_the_wild_boar_Sus_scrofa#pf7 <\ul>
 
 
 
