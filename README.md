@@ -23,12 +23,12 @@ Avancée du projet :
 Le modèle prend en compte le fait que la population est composée d'une même espèce x 10000, ça prend pas en compte l'age de la population, en reprennant Wikipédia :
     <br>
     "The Lotka–Volterra predator-prey model makes a number of assumptions about the environment and biology of the predator and prey populations:
-    <ul>The prey population finds ample food at all times.<\ul>
-    <ul>The food supply of the predator population depends entirely on the size of the prey population.</ul>
-    <ul>The rate of change of population is proportional to its size.</ul>
-    <ul>During the process, the environment does not change in favour of one species, and genetic adaptation is inconsequential.</ul>
-    <ul>Predators have limitless appetite.</ul>
-    <ul>Both populations can be described by a single variable. This amounts to assuming that the populations do not have a spatial or age distribution that contributes to the dynamics."</ul>
+    <ul><li>The prey population finds ample food at all times.</li>
+    <li>The food supply of the predator population depends entirely on the size of the prey population.</li>
+    <li>The rate of change of population is proportional to its size.</li>
+    <li>During the process, the environment does not change in favour of one species, and genetic adaptation is inconsequential.</li>
+    <li>Predators have limitless appetite.</li>
+    <li>Both populations can be described by a single variable. This amounts to assuming that the populations do not have a spatial or age distribution that contributes to the dynamics."</li></ul>
 Donc qu'est ce qu'il se passerait si y a pas de nourriture, si on touche à une de ces assumptions ? si c'était une pop naturelle ?
 
   Seule base donnée potentiellement intéressante actuellement : <ul> https://www.researchgate.net/publication/343583211_Colonisation_des_iles_d%27Hyeres_Var_sud_de_la_France_par_le_sanglier_Sus_scrofa_Colonization_of_the_islands_of_Hyeres_Var_south_of_France_by_the_wild_boar_Sus_scrofa#pf7
