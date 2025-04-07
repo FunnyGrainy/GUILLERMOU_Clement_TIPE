@@ -51,17 +51,19 @@ OBJECTIFS :
 -------------------------------------------------------------------
     
 Notes fourre tout :
-    Pistes :
-    - Lotka Voltera avec 3 ou 4 espèces, dynamique des populations (voir la cyclique ?), la chaîne YT de Primer
+    Pistes : <ul><li>- Lotka Voltera avec 3 ou 4 espèces, dynamique des populations (voir la cyclique ?), la chaîne YT de Primer
     avec ses simulations, l'hotel d'Hilbert, la proba que 2 personnes aient le même anniversaire
     check aussi les 2 vidéos de squeezie sur les sites de psycho "ca a l'air nul mais intéressant"
-    Rappel de comment présenter ma recherche :
-    - présenter des formules avec les unités, des bases de données, les calculs et schémas de référence (avec des légendes
-    (figure (x) - blabla)) expliquer les différents phénomène et utilisations des formules(avec des schémas)
-    - parler des l'évaluation de l'erreur, la qualité de la simulation faire une MAE, Mean absolute error
-    tableau de résultat finaux : moyenne et écart type de l'erreur
-    - conclusion : bullet point de ce qu'on a réussi et pas réussi à faire dans nos expériences
-    - mettre les ref biblio, les codes (SAVOIR EXPLIQUER CE QU ILS FONT) 
+    Rappel de comment présenter ma recherche :</li><li> présenter des formules avec les unités, des bases de données, les calculs et schémas de référence (avec des légendes
+    (figure (x) - blabla)) expliquer les différents phénomène et utilisations des formules(avec des schémas)</li>
+    <li> parler des l'évaluation de l'erreur, la qualité de la simulation faire une MAE, Mean absolute error
+    tableau de résultat finaux : moyenne et écart type de l'erreur</li><li>- conclusion : bullet point de ce qu'on a réussi et pas réussi à faire dans nos expériences</li>
+    <li>mettre les ref biblio, les codes (SAVOIR EXPLIQUER CE QU ILS FONT) </li></ul>
+    
+    
+    
+    
+    
   </p>
 </body>
 
