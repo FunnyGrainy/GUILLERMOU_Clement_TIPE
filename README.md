@@ -40,8 +40,7 @@ OBJECTIFS :
 - URGENT : Trouver une base de données pour connaître le nombre de sangliers, de proies, quand est ce que ce sont réalisées les battues, combien de sangliers sont tués par battues -> permettra d'avoir des paramètres fiables pour la suite
 - Téléphoner à un institut de chasse pour demander :
   <ul><li>la chasse à porc croc des sangliers, qu'on chasse à certains moments, comprendre pourquoi ils font ça à ce moment là
-</li>
-<li>quel modèle ils utilisent et pourquoi, demander à des instituts de chasse, pourquoi ils font ça, combien et à quel moment, si c'est empirique ou s'ils se basent sur un modèle scientifique ou pas, savoir s'ils tuent en fonction de combien j'en veux l'année prochaine, alors combien j'en tue cette année (parce que quand on fait la battue, on perd des proies, et on passe dans le cycle d'en dessous, et on aura encore + de biches l'année pro)</li>
+</li> <li>quel modèle ils utilisent et pourquoi, demander à des instituts de chasse, pourquoi ils font ça, combien et à quel moment, si c'est empirique ou s'ils se basent sur un modèle scientifique ou pas, savoir s'ils tuent en fonction de combien j'en veux l'année prochaine, alors combien j'en tue cette année (parce que quand on fait la battue, on perd des proies, et on passe dans le cycle d'en dessous, et on aura encore + de biches l'année pro)</li>
 </ul>
 - Ajouter d'autres paramètres au modèle (que ce soit dans le bidouillage des paramètres, ou dans l'ajout d'un aléa (comme des loups qui mangnent les sangliers)
 
@@ -52,7 +51,8 @@ OBJECTIFS :
 -------------------------------------------------------------------
     
 Notes fourre tout :
-    Pistes : Lotka Voltera avec 3 ou 4 espèces, dynamique des populations (voir la cyclique ?), la chaîne YT de Primer
+    Pistes :
+    - Lotka Voltera avec 3 ou 4 espèces, dynamique des populations (voir la cyclique ?), la chaîne YT de Primer
     avec ses simulations, l'hotel d'Hilbert, la proba que 2 personnes aient le même anniversaire
     check aussi les 2 vidéos de squeezie sur les sites de psycho "ca a l'air nul mais intéressant"
     Rappel de comment présenter ma recherche :
