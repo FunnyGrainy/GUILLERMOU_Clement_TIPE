@@ -23,12 +23,12 @@ Avancée du projet :
 Le modèle prend en compte le fait que la population est composée d'une même espèce x 10000, ça prend pas en compte l'age de la population, en reprennant Wikipédia :
     <br>
     "The Lotka–Volterra predator-prey model makes a number of assumptions about the environment and biology of the predator and prey populations:
-    <ul>The prey population finds ample food at all times.<\ul>
-    <ul>The food supply of the predator population depends entirely on the size of the prey population.</ul>
-    <ul>The rate of change of population is proportional to its size.</ul>
-    <ul>During the process, the environment does not change in favour of one species, and genetic adaptation is inconsequential.</ul>
-    <ul>Predators have limitless appetite.</ul>
-    <ul>Both populations can be described by a single variable. This amounts to assuming that the populations do not have a spatial or age distribution that contributes to the dynamics."</ul>
+    <ul><li>The prey population finds ample food at all times.<\li>
+    <li>The food supply of the predator population depends entirely on the size of the prey population.</li>
+    <li>The rate of change of population is proportional to its size.</li>
+    <li>During the process, the environment does not change in favour of one species, and genetic adaptation is inconsequential.</li>
+    <li>Predators have limitless appetite.</li>
+    <li>Both populations can be described by a single variable. This amounts to assuming that the populations do not have a spatial or age distribution that contributes to the dynamics."</li></ul>
 Donc qu'est ce qu'il se passerait si y a pas de nourriture, si on touche à une de ces assumptions ? si c'était une population naturelle ?
 
 C'est sur l'aspect naturel que je souhaite me pencher, en prenant le cas des sangliers à Port Cros. L'idée est de savoir si des évènements naturels peuvent être retranscrits sur le modèle Lotka Volterra, le but est de mettre en question sa fiabilité.
