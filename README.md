@@ -4,7 +4,6 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title>replit</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 
@@ -16,16 +15,6 @@
     </h1>
   </div>
   <br>
-  <h2>
-    Vendredi 31 Janvier
-  </h2>
-  <p>
-    Première séance, phase de recherche de comment avancer.
-    D'instinct des idées parlant de boucles for/while de près ou de loin sont venues mais rien de bien concret.
-  </p>
-  <h2>
-    Vendredi 7 Février
-  </h2>
   <p>
     Pistes : Lotka Voltera avec 3 ou 4 espèces, dynamique des populations (voir la cyclique ?), la chaîne YT de Primer
     avec ses simulations,
