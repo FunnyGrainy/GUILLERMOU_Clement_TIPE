@@ -59,6 +59,9 @@ Notes fourre tout :
     <li> parler des l'évaluation de l'erreur, la qualité de la simulation faire une MAE, Mean absolute error
     tableau de résultat finaux : moyenne et écart type de l'erreur</li><li>- conclusion : bullet point de ce qu'on a réussi et pas réussi à faire dans nos expériences</li>
     <li>mettre les ref biblio, les codes (SAVOIR EXPLIQUER CE QU ILS FONT) </li></ul>
+
+Notes appels :
+
     
     
     
