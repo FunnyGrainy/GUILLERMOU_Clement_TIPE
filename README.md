@@ -34,6 +34,10 @@ Donc qu'est ce qu'il se passerait si y a pas de nourriture, si on touche à une 
 C'est sur l'aspect naturel que je souhaite me pencher, en prenant le cas des sangliers à Port Cros. L'idée est de savoir si des évènements naturels peuvent être retranscrits sur le modèle Lotka Volterra, le but est de mettre en question sa fiabilité.
 
 Pour l'instant, à ce modèle a été rajoutée une battue, qui reduit la taille des prédateurs lorsque ces derniers dépassent un certain seuil.
+<h2>Appel du 8 avril</h2>
+Les modèles de chasse, il y en a plein et sont liés aux biotopes
+La chasse aux sangliers dépend de leur densité -> actualisation du modèle qui ne va plus se baser sur un seuil, mais sur une proportion : + il y a de sangliers, + il y a de chasse pour une battue, et + il y aura de sangliers tués.
+
 
 OBJECTIFS :
 
@@ -59,9 +63,6 @@ Notes fourre tout :
     <li> parler des l'évaluation de l'erreur, la qualité de la simulation faire une MAE, Mean absolute error
     tableau de résultat finaux : moyenne et écart type de l'erreur</li><li>- conclusion : bullet point de ce qu'on a réussi et pas réussi à faire dans nos expériences</li>
     <li>mettre les ref biblio, les codes (SAVOIR EXPLIQUER CE QU ILS FONT) </li></ul>
-
-Notes appels : Les modèles de chasse, il y en a plein et sont liés aux biotopes
-La chasse aux sangliers dépend de leur densité
 
     
     
