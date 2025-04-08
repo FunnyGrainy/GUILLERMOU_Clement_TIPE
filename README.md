@@ -16,7 +16,7 @@
   </div>
   <br>
   <p>
-Avancée du projet :
+Avancée du projet : APPEL AVEC LE DIRECTEUR DE LA FEDERATION DE CHASSE DU VAR LUNDI 14 à 14H
     Après quelques séances de recherches, et grâce à la recommandation de Mme Courrèges, je compte pour l'instant centrer mon TIPE sur le modèle Lotka Volterra classique.
     Ce modèle permet de s'instaurer dans le thème de cette année (par exemple la représentation rond des boucles, on passe d'une boucle à l'autre), possède une formule mathématique d'équa diff et permet de facilement le modéliser via code.
     <br>
@@ -60,7 +60,8 @@ Notes fourre tout :
     tableau de résultat finaux : moyenne et écart type de l'erreur</li><li>- conclusion : bullet point de ce qu'on a réussi et pas réussi à faire dans nos expériences</li>
     <li>mettre les ref biblio, les codes (SAVOIR EXPLIQUER CE QU ILS FONT) </li></ul>
 
-Notes appels :
+Notes appels : Les modèles de chasse, il y en a plein et sont liés aux biotopes
+La chasse aux sangliers dépend de leur densité
 
     
     
