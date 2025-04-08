@@ -16,7 +16,7 @@
   </div>
   <br>
   <p>
-Avancée du projet : APPEL AVEC LE DIRECTEUR DE LA FEDERATION DE CHASSE DU VAR LUNDI 14 à 14H
+Avancée du projet : APPEL AVEC LE DIRECTEUR DE LA FEDERATION DE CHASSE DU VAR LUNDI 14 à 14H <br/>
     Après quelques séances de recherches, et grâce à la recommandation de Mme Courrèges, je compte pour l'instant centrer mon TIPE sur le modèle Lotka Volterra classique.
     Ce modèle permet de s'instaurer dans le thème de cette année (par exemple la représentation rond des boucles, on passe d'une boucle à l'autre), possède une formule mathématique d'équa diff et permet de facilement le modéliser via code.
     <br>
