@@ -69,6 +69,76 @@ Ce qu’il reste à voir :
 la quantification des chiffres, du nombre de prélèvement depuis plusieurs années (DDTM)
 côté environemental : impact que ça a et pourquoi finalement dans ce parc national (zone sanctuaire, coeur du parc), on est tout de même obligé d’intervenir et de chasser
 
+<h2>Appel Alison Pesson (Cheffe de Bureau Chasse de la Direction départementale des territoires et de la mer) alison.pesson@var.gouv.fr</h2>
+
+expliquera comment fonction la destruction, comment fonctionne le prefet
+
+
+Les 3 iles sont concernées par des problématiques de sangliers, et sur les 3 iles on peut avoir des opérations de battues
+
+Pour Port Cros on est sur du coeur de parc, l’arrêté qui cadre le parc interdit toute action de chasse, y compris chasse au sanglier classique → à la place sont réalisées des « battue administratives » autorisées par le prefet et qui sont cadrées par un lieutenant de louveteries qui organise des régulations lorsqu’il y a des espèces suseptibles d’occasionner des dégats.
+Ils appuient à la régulation des sangliers en zone urbaine, là où les chasseurs peuvent pas intervenir.
+
+C’est des battues sur arrêté prefectoral qui sont réalisées, en général la DDTM essaye d’en organiser 1 ou 2 dans l’année (cette année ils en ont déjà organisé 2, car ça faisait + d’1 qu’il n’y avait pas eu de battue → nécessité de réguler les populations sur l’île car beaucoup de dégats signalés)
+
+Y a pas de suivi de population strict (pas moyen d’avoir la densité d’elle), c’est + sur signalements par les agents du parc → problématique de biodiversité car y a de la phone et flore protégée, la présence de sanglier remet en cause la biodiversité sur l’île (d’où les battues, sur demande du parc qui les sollicite)
+
+C’est une 60aine de chasseurs qui sont mobilisés sur 1 journée pour mener à bien ces opérations.
+Comme ils ne connaissent pas la population de sangliers sur l’île, c’est difficile de savoir le %age prélevé. En général c’est 10 à 15 sangliers prélevés par opérations (assez bien sachant que l’île est grande avec une topographie compliquée où les chasseurs ne peuvent parfois pas passer et où les sangliers se mettent sur des falaises pour éviter de se faire chasser)
+
+Les sangliers sont malins : développent des techniques de survies pour éviter de se faire chasser.
+
+1ère battue de l’année : (si besoin d’info précise, lui redemander)
+
+Pour les densités de sanglier, même sur le continent y a pas de suivi précis (assez compliqué de faire des suivis sur des animaux sauvages. Comme le sanglier est classé comme « espèce susceptible de causer des dégats » ou « espèce nuisible », ils ne prennent pas le temps de faire de suivis car ils n’en ont pas le besoin d’en faire.
+
+Sur les 3 iles, y a que des opérations de destruction de réalisées : Port Cros des battues, Porqueroles et l’île du levant ils donnent des autorisations de destruction où des chasseurs peuvent participer (pas de la « vraie chasse » techniquement) dans l’idée de diminuer les dégats sur les exploitations agricoles
+
+Proie que le sanglier nuit le + : Les sangliers sont omnivores et opportunistes et vont se nourrir de ce qu’ils trouvent, leur source de nourriture : 
+- creusent pour trouver des vers
+- glands dans les zones forestières
+- petits faons (trop jeunes pour se lever donc restent au sol, proie facile pour le sanglier)
+- dans les poubelles en zone urbaine (notamment en période de sécheresse, quand rien à manger dans les forêts)
+- les pingouins : « puffins », les sangliers s’attaquent à eux, aux nids et aux œufs
+
+Mais de manière générale les sangliers sont très opportunités et vont chercher n’importe quelle source de nourriture qu’ils ont à apporter
+
+« Qu’est ce qui est considéré comme nuisible ? » :
+
+Pour être considéré comme nuisible et autoriser sa destruction il y a plusieurs critères (pas forcément cumulatifs) :
+- atteintes à la flore et phaune sauvage
+- atteintes aux bien et propriété des personnes
+- dégats sur la foret et exploitation agricole (dégats dans les vignes, mangent le raisin, il y a 3 ans ils étaient à 500k euros de dégats sur le département du Var)
+- tout ce qui est lié au sanitaire
+- sécurité publique (accidents de la route)
+
+Pour le sanglier, dans le Var, il est classé comme ESOD (Espèce Susceptible d’Occasionner des Dégats) 
+
+Ils classent leurs ESOD sur le critère sanitaire : risque de peste porcine africaine, maladie qui  touche les sangliers. Maladie qui se développe en Italie, à 80km de la frontière. Une fois que ça touche la faune sauvage ça peut vite se répendre, si un élevage est touché en France, c’est l’ensemble des exports de viandes de porc française qui sera bloqué au niveau international → potentiel énorme impact sur l’économie française
+
+La maladie est en Italie (et ne se rapproche pas encore en France) mais plusieurs vecteurs de risques, ça peut aller très très vite pour qu’elle arrive en france:
+- si ça se répend dans les populations de sangliers, c’est facile à eux de passer la frontière et contaminer les élevages Fr)
+- « effet sandwich » : la maladie ne disparaît pas même dans la venaison ou la charcuterie, si quelqu’un achète de la viande porcine en Italie infecté par la peste porcine africaine et jette cette viande dans la nature, si elle est consommée par un sanglier il peut être infecté.
+
+Caractéristiques : pas transmissible à l’homme, pas de vaccin à l’heure actuelle et 100 % mortelle pour les porcins → provoque une grosse fièvre, souvent les sangliers meurent par groupe car si un meurt, et possède cette peste, les autres qui se nourrissent du cadavre ils vont tous l’attraper et meurent dans les prochaines heures/jours
+
+« Avez vous une idée de combien il faut en prélever par battues ? »
+
+NON : PAS DE MINIMUM DE PRELEVEMENT DONNE, NI D’OBJECTIF PAR OPERATION
+
+Ce qui est compliqué c’est qu’il y a toujours une part d’aléatoire, ils ne savent pas ce qu’il peut arriver. Il peut y avoir des conditions météo qui peut regrouper les sangliers à un endroit ou un autre de l’île, peut être que les chasseurs ne vont pas les trouver là où ils sont supposés être habituellement → trop difficile de donner un objectif de prélèvement.
+
+Le sanglier ne devrait même pas être présent sur ces îles, puisqu’il n’y a pas de chasse c’est impossible de les réguler en dehors de la destruction. Sachant que ce sont des zones protégées, il faudrait dans l’idéal éliminer les sangliers de l’île et c’est impossible car les sangliers peuvent trouver des parades et même en faisant plusieurs opérations à la suite, c’est impossible d’en prélever 100 %. Ils prélèvent ce qu’ils peuvent, attendent les retours, et observent l’évolution des dégats. Et s’il y a encore des dégats, ils vont essayer de reprogrammer des opérations.
+→ contrainte : le tourisme, les opérations ne peuvent pas être réalisés quand ils veulent, trop compliqué d’en faire en toute sécurité
+
+EN GENERAL LES OPERATIONS SE FONT EN HIVER (ils en ont fait une en novembre et une en janvier et à l’heure de début avril, ils n’ont pas d’opération de programmée au moins avant l’automne à cause du tourisme) → pas de planification du nombre/ de l’idéal qui doit être réalisé car  trop de facteurs qui peuvent influencer la battue. Pour donner un chiffre d’idéal, il faudrait déjà avoir l’information de la densité qui n’est pas connue
+
+Informations :
+
+- DDTM du var → services de l’état dans le var → chasse → articles qui parlent des sangliers, lieutenants de louveteries, Arrêtés préfectoraux, def ESOD
+
+
+-----------
 
 OBJECTIFS :
 
