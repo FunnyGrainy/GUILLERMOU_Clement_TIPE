@@ -166,7 +166,7 @@ Les prélèvements du loup sont réguliers (Lotka Volterra idéal?), le nombre d
 Les prélèvements des chasseurs, il y a d’autres variantes, comme la reproduction. Il peut y avoir des  années avec des + fortes reproductions que d’autres. Ca dépend de comment a été la reproduction pour les sangliers et à partir de ce moment, pour le chasseur, c’est quelque chose de + aléatoire.
 
 Q : Les décisions relatives à la gestion des populations de sangliers s’appuient-elles sur un modèle scientifique ou bien sont-elles principalement motivées par le nombre de plaintes reçues ? 
-R : Pas de modèle, pas d’ingénieurs, la gestion des populations est liée aux fédérations départementales, qui envoient un avis au préfet. Cet avis est fait sous les plaintes → c’est la plainte qui déclenche la chasse (et dans notre cas, la destruction également)
+R : Pas de modèle, pas d’ingénieurs, pas de planning précis, la gestion des populations est liée aux fédérations départementales, qui envoient un avis au préfet. Cet avis est fait sous les plaintes → c’est la plainte qui déclenche la chasse (et dans notre cas, la destruction également)
 La chasse se cale sur ce rapport « prédateur-proie » : au + il y a de proies, au + la population prédatrice a tendance à augmenter et donc + de chasseurs viennent participer aux battues, pour les manger après par exemple.
 Quand il y a – de sangliers, les chasseurs vont + chasser les lièvres et chevreuils. → C’est le même rapport qu’on peut avoir avec ce rapport « prédateur-proie »
 
