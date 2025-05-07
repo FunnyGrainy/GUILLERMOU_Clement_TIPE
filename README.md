@@ -137,6 +137,43 @@ Informations :
 
 - DDTM du var → services de l’état dans le var → chasse → articles qui parlent des sangliers, lieutenants de louveteries, Arrêtés préfectoraux, def ESOD
 
+<h2>Appel Bruno Giaminardi du Mercredi 7 Mai</h2>
+Rappel, c'est le Directeur Fédération des chasseurs du Var, c'est donc des informations + générales qu'à Port Cros directement mais beaucoup peuvent se lier à notre cas.
+La méthode de chasse n'est pas la même également : il ne fait pas de la chasse de destruction comme à Port Cros (où le but est d'éliminer complètement l'espèce), ici c'est de la chasse "classique" où l'objectif est de préserver l’équilibre, pas d'éliminer.
+
+QUESTIONS PREPAREES EN AVANCE AVEC MME COURREGES, VOILA SES REPONSES APRES NOTRE APPEL :
+
+Q : Le préfet fonde-t-il ses décisions sur l’avis de conseillers techniques, et si oui, de quels organismes dépendent-ils ? 
+R : Il n’y a pas de conseiller spécifique, le référent sur ces questions de population c’est la fédération départementale de chasseur. Le préfet, avant de prendre un arrêté (une décision pour faire une battue), il faut qu’il y ait un certain nombre de plaintes pour dire qu’il y a un problème donc un besoin d’action. C’est lié aux plaintes avant tout.
+L’organisme c’est justement la fédération des chasseurs qui sont en capacité de dire s’il y a un problème, pour conforter le préfet ou non dans la décision.
+
+Q : Y a-t-il, par exemple, des ingénieurs des Eaux et Forêts (issus par exemple de l’ENGREF) impliqués dans ces décisions ?
+R : Non, ils ne s’occupent pas de ces aspects là. Il y a bien l’INRAE pour faire des études mais ça ne va pas plus loin. (pas une piste utilise je pense)
+
+Q : Existe-t-il une corrélation entre le nombre de sangliers et le nombre de plaintes ? 
+R : Oui, il y a corrélation, sur les plaintes ou les montants d’indemnisations que versent les chasseurs aux agricultures. + les populations, + il y a de dégâts.
+Q:Plus généralement, avez vous un moyen de mesurer l’impact réel de la population de sangliers par rapport aux plaintes/ nuisances perçues par les agriculteurs par exemple ?
+R : On a des chiffrages mais on n’arrive pas à tout chiffrer : Pas possible d’avoir quelque chose d’exhaustif. On ne voit qu’une partie des dégâts, mais généralement, + il y a de sangliers, + il y a le montant des dégâts qui montent.
+Exemples : 
+- Dans le département, en moyenne sur certaines années, quand on payait 1M et demi de dégâts déclarés par le monde agricole, c’est des années où il oscillait entre et 25 000 à 30 000 de sangliers dans le département.
+- Dans des fourchettes de prélèvement entre 13 000 et 15 000, aujourd’hui on est sur des montants d’indemnisations de 500 000 euros.
+- Ca fait 2 ans maintenant que l’on est sur des prélèvements autour de 12 000 et 13 000, et l’on passe sous la barre 200 000 euros d’indemnisations.
+
+Q : Peut-on considérer que les humains sont aujourd’hui les principaux prédateurs des sangliers ? (ici, on sera donc + de manière générale, dans le Var et non directement à Port Cros)
+R : C’était vrai par le passé, aujourd’hui le prédateur n1 c’est le loup.
+On considère qu’il consomme entre 4 000 et 5 000 têtes par an dans le département.
+Les prélèvements du loup sont réguliers (Lotka Volterra idéal?), le nombre de meutes de loups étant stable également (20aine environ).
+Les prélèvements des chasseurs, il y a d’autres variantes, comme la reproduction. Il peut y avoir des  années avec des + fortes reproductions que d’autres. Ca dépend de comment a été la reproduction pour les sangliers et à partir de ce moment, pour le chasseur, c’est quelque chose de + aléatoire.
+
+Q : Les décisions relatives à la gestion des populations de sangliers s’appuient-elles sur un modèle scientifique ou bien sont-elles principalement motivées par le nombre de plaintes reçues ? 
+R : Pas de modèle, pas d’ingénieurs, la gestion des populations est liée aux fédérations départementales, qui envoient un avis au préfet. Cet avis est fait sous les plaintes → c’est la plainte qui déclenche la chasse (et dans notre cas, la destruction également)
+La chasse se cale sur ce rapport « prédateur-proie » : au + il y a de proies, au + la population prédatrice a tendance à augmenter et donc + de chasseurs viennent participer aux battues, pour les manger après par exemple.
+Quand il y a – de sangliers, les chasseurs vont + chasser les lièvres et chevreuils. → C’est le même rapport qu’on peut avoir avec ce rapport « prédateur-proie »
+
+Q : Dans mon travail justement, j'utilise le modèle « proie-prédateur » du type "Lotka-Volterra", est ce que vous connaissez ce modèle ?
+R : Non.
+[après explication]
+Mais de toute manière les modèles de prédation sont tous basés sur le même principe : un prédateur ne se soumets jamais vraiment à une espèce (d’autant + que le sanglier mange un peu ce qu’il veut, étant omnivore). Dans notre cas, pour le chasseur : si y a beaucoup de sangliers il va prélever beaucoup de sangliers, sinon il va prélever autre chose aussi pour compenser. → cela a un impact sur la reproduction de ces espèces prédatrices, elle peut être en diminution.
 
 -----------
 
