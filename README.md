@@ -17,6 +17,8 @@
   <p>
 C'est sur l'aspect naturel que je souhaite me pencher, en prenant le cas des sangliers à Port Cros. L'idée est de savoir si des évènements naturels peuvent être retranscrits sur le modèle Lotka Volterra, le but est de mettre en question sa fiabilité.
 
+Le code contient : le modèle simple, le nb de plaintes, des battues
+
 <h1>Appels des vacances d'Avril</h1>
 <h2>Appel Bruno Giaminardi (Directeur Fédération des chasseurs du Var) : bruno.giaminardi@gdf83.com</h2>
 
@@ -155,7 +157,6 @@ R : Non.
 [après explication]
 Mais de toute manière les modèles de prédation sont tous basés sur le même principe : un prédateur ne se soumets jamais vraiment à une espèce (d’autant + que le sanglier mange un peu ce qu’il veut, étant omnivore). Dans notre cas, pour le chasseur : si y a beaucoup de sangliers il va prélever beaucoup de sangliers, sinon il va prélever autre chose aussi pour compenser. → cela a un impact sur la reproduction de ces espèces prédatrices, elle peut être en diminution.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/H8oUDOK" data-context="false" ><a href="//imgur.com/a/H8oUDOK"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 -----------
 
 OBJECTIFS :
