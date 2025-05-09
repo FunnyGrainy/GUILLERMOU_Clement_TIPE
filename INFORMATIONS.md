@@ -15,12 +15,7 @@
     </h1>
   </div>
   <p>
-C'est sur l'aspect naturel que je souhaite me pencher, en prenant le cas des sangliers à Port Cros. L'idée est de savoir si des évènements naturels peuvent être retranscrits sur le modèle Lotka Volterra, le but est de mettre en question sa fiabilité.
-
-Le code contient : le modèle simple, le nb de plaintes, des battues
-
-<h1>Appels des vacances d'Avril</h1>
-<h2>Appel Bruno Giaminardi (Directeur Fédération des chasseurs du Var) : bruno.giaminardi@gdf83.com</h2>
+<h2>Appel des vacances d'Avril de Bruno Giaminardi (Directeur Fédération des chasseurs du Var) : bruno.giaminardi@gdf83.com</h2>
 
 Le parc national de port cros a sa propre structure, on est sur des prélèvements hors cadre :
 
@@ -51,7 +46,7 @@ Ce qu’il reste à voir :
 la quantification des chiffres, du nombre de prélèvement depuis plusieurs années (DDTM)
 côté environemental : impact que ça a et pourquoi finalement dans ce parc national (zone sanctuaire, coeur du parc), on est tout de même obligé d’intervenir et de chasser
 
-<h2>Appel Alison Pesson (Cheffe de Bureau Chasse de la Direction départementale des territoires et de la mer) alison.pesson@var.gouv.fr</h2>
+<h2>Appel des vacances d'Avril Alison Pesson (Cheffe de Bureau Chasse de la Direction départementale des territoires et de la mer) alison.pesson@var.gouv.fr</h2>
 
 expliquera comment fonction la destruction, comment fonctionne le prefet
 
@@ -189,12 +184,6 @@ Notes fourre tout :
     <li> parler des l'évaluation de l'erreur, la qualité de la simulation faire une MAE, Mean absolute error
     tableau de résultat finaux : moyenne et écart type de l'erreur</li><li>- conclusion : bullet point de ce qu'on a réussi et pas réussi à faire dans nos expériences</li>
     <li>mettre les ref biblio, les codes (SAVOIR EXPLIQUER CE QU ILS FONT) </li></ul>
-
-    
-    
-    
-    
-    
   </p>
 </body>
 
