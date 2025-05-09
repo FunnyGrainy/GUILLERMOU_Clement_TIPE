@@ -1,4 +1,4 @@
-Première piste (actuelle) : Lotka Volterra
+<h1>Première piste (actuelle) : Lotka Volterra</h1>
 
 Correspond au thème de l'année par les simulations, les diagrammes de phases etc...
 
