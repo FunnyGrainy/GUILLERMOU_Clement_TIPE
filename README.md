@@ -39,5 +39,5 @@ faire une variable plainte : la faire monter en fonction de :
 - un facteur estival (+ facilement montable en été car les sangliers sont en urbain manger des poubelles)
 
 Parler de Port Cros particulièrement, avec que les hommes et les sangliers puis s'étendre dans le Var et, avec les loups, voir comment cela peut changer avec une 3ème espèce.
-16 mai 2025 : j'ai envoyé un mail à l'OFB, l'ONF et le Museum du Var
+16 mai 2025 : j'ai envoyé un mail à l'OFB, l'ONF et le Museum du Var et au contact du mec de Port Cros que m'a donné Pesson
 
